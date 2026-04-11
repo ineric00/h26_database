@@ -15,7 +15,7 @@
             <mxRectangle height="30" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3b" parent="3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="user_id (STRING)" vertex="1">
+        <mxCell id="3b" parent="3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="User_ID (STRING)" vertex="1">
           <mxGeometry height="30" width="180" x="40" as="geometry">
             <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
@@ -28,7 +28,7 @@
             <mxRectangle height="30" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4b" parent="4" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="password (STRING)" vertex="1">
+        <mxCell id="4b" parent="4" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="Password (STRING)" vertex="1">
           <mxGeometry height="30" width="180" x="40" as="geometry">
             <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
@@ -41,7 +41,7 @@
             <mxRectangle height="30" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5b" parent="5" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="name (STRING)" vertex="1">
+        <mxCell id="5b" parent="5" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="Name (STRING)" vertex="1">
           <mxGeometry height="30" width="180" x="40" as="geometry">
             <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
@@ -112,7 +112,7 @@
             <mxRectangle height="30" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="22b" parent="22" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="user_id (STRING)" vertex="1">
+        <mxCell id="22b" parent="22" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="User_ID (STRING)" vertex="1">
           <mxGeometry height="30" width="190" x="40" as="geometry">
             <mxRectangle height="30" width="190" as="alternateBounds" />
           </mxGeometry>
