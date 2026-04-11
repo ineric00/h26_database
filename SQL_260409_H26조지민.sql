@@ -54,7 +54,7 @@ Emp(empno NUMBER(4), ename VARCHAR(10), job VARCHAR(9),
 
 ⓼30번 부서의 사원 수와 사원들 급여의 합계와 평균을 출력하시오.
 
-- Select Count(*), sum(sal), avg(sal) from emp where deptno = 30;
+-
 - SELECT COUNT(*), SUM(sal), AVG(sal) FROM emp WHERE deptno = 30;
 
 ⓽평균 급여가 가장 높은 부서의 번호를 출력하시오.
@@ -360,7 +360,7 @@ Emp(empno NUMBER(4), ename VARCHAR(10), job VARCHAR(9),
 
 ⓵업무별 최고, 최소, 평균 급여와 사원 수를 출력하시오.
 
-- Select 
+-  
 - SELECT job, MAX(sal), MIN(sal), ROUND(AVG(sal)), COUNT(*) FROM emp GROUP BY job;
 
 ⓶부서별, 업무별 인원수를 출력하시오.
