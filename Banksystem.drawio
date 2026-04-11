@@ -232,7 +232,7 @@
             <mxRectangle height="30" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="35b" parent="35" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="date (STRING)" vertex="1">
+        <mxCell id="35b" parent="35" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="balance_after (INT)" vertex="1">
           <mxGeometry height="30" width="190" x="40" as="geometry">
             <mxRectangle height="30" width="190" as="alternateBounds" />
           </mxGeometry>
@@ -245,7 +245,7 @@
             <mxRectangle height="30" width="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AcU1ODQJIOn2wzEt0-vN-44" parent="AcU1ODQJIOn2wzEt0-vN-42" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="balance_after (INT)" vertex="1">
+        <mxCell id="AcU1ODQJIOn2wzEt0-vN-44" parent="AcU1ODQJIOn2wzEt0-vN-42" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=11;" value="date (STRING)" vertex="1">
           <mxGeometry height="30" width="190" x="40" as="geometry">
             <mxRectangle height="30" width="190" as="alternateBounds" />
           </mxGeometry>
