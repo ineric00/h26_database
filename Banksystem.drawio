@@ -250,13 +250,15 @@
             <mxRectangle height="30" width="190" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="40" edge="1" parent="1" source="3" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERmanyToOne;startArrow=ERmandOne;exitX=1;exitY=0.5;fontSize=11;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="22" value="소유한다">
+        <mxCell id="40" edge="1" parent="1" source="3" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERmanyToOne;startArrow=ERmandOne;exitX=1;exitY=0.5;fontSize=11;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="22" value="소유">
+          <mxGeometry relative="1" x="-0.0013" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" edge="1" parent="1" source="11" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERmanyToOne;startArrow=ERmandOne;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=11;" target="23" value="제공">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41" edge="1" parent="1" source="11" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERmanyToOne;startArrow=ERmandOne;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=11;" target="23" value="제공한다">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="42" edge="1" parent="1" source="21" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERmanyToOne;startArrow=ERmandOne;exitX=1;exitY=0.5;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="32" value="발생한다">
+        <mxCell id="42" edge="1" parent="1" source="21" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERmanyToOne;startArrow=ERmandOne;exitX=1;exitY=0.5;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="32" value="발생">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="615" as="targetPoint" />
           </mxGeometry>
